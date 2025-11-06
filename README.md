@@ -17,5 +17,11 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 
 ----
 
-Edit this file to learn how to edit this file.
+-> Edit this file to learn how to edit this file.
+
+----
+
+This is content to be commited by using a stage process.
+
+----
 
